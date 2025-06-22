@@ -6,7 +6,8 @@ public class matrix_transpose {
               {9,12,15},
               {2, 4, 8}
       };
-      arr = transpose(arr);
+
+      transpose(arr);
     }
 
     public static int[][] transpose(int[][] matrix){
