@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnagramNCharFreq/AnagramNCharFreq.iml" filepath="$PROJECT_DIR$/AnagramNCharFreq/AnagramNCharFreq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnagramNCharFreq/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/AnagramNCharFreq/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FingingFloorNCeil/FingingFloorNCeil.iml" filepath="$PROJECT_DIR$/FingingFloorNCeil/FingingFloorNCeil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+    </modules>
+  </component>
+</project>
